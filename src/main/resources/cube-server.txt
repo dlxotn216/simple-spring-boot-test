@@ -1,0 +1,48 @@
+* 개발서버
+ ip  : 192.168.10.237, 192.168.10.238
+ id  : cubeweb
+ pw  : cubeweb2013)(*&
+
+* Staging 서버
+ip: 211.115.68.224, 211.115.68.225
+id: root
+pw: staging123!@# => (staging123<SHIFT>123</SHIFT>)
+
+* Edu 서버
+ip  : 211.115.68.239
+id  : root
+pw  : training123!@# => (training123<SHIFT>123</SHIFT>)
+
+* WEB1 - 운영 
+ ip  : 211.115.68.237
+ id  : root
+ pw  : rkqldk2012!@#$%   =>  (가비아2012<SHIFT>12345</SHIFT>)
+ 
+* WEB2- 운영
+ ip  : 211.115.68.238
+ id  : root
+ pw  : crscube2013)(*&   =>  (crscube2013<SHIFT>0987</SHIFT>)
+
+CRSBETA
+crscube/beta2010
+
+CRSCUBE
+crscube/cube2010
+
+
+----------- AWS (cubeTMF) --------------------------------
+
+DEV-PDF-01
+13.124.180.210:8888 / 10.0.10.184
+
+DEV-WAS-01
+13.124.127.200:8080 / 10.0.10.46
+
+DEV-WEB-01
+13.124.57.196 / 10.0.10.97
+
+TEST-WAS-01
+13.124.11.159:8080,8888 / 10.0.10.194
+
+TEST-WEB-01
+13.124.105.247 /  10.0.10.211
